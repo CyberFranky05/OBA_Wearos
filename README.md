@@ -51,7 +51,6 @@ When testing this application:
 
 
 
-
 ## Note
 
 This is not intended as a full production app but rather as a sample implementation to demonstrate specific technical concepts in Wear OS development.
